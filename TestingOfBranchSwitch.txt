@@ -1,0 +1,7 @@
+we can change use 
+git branch -a  ==to list all branch
+
+//Switch branch
+$ git switch <existing_branch>
+
+$ git switch -c <non_existing_branch>
