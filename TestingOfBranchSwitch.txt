@@ -4,4 +4,5 @@ git branch -a  ==to list all branch
 //Switch branch
 $ git switch <existing_branch>
 
+//if branch doesn'exit
 $ git switch -c <non_existing_branch>
